@@ -1,0 +1,7 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Wed May 31 15:54:02 IST 2023","Wed May 31 15:54:31 IST 2023","28961","DrDocDemo","","Web Automation","","","Check Audio book Play - A Happy Life",""
+"failed","Wed May 31 15:54:02 IST 2023","Wed May 31 15:54:04 IST 2023","1946","DrDocDemo","","Mock Api Automation","","","Validate City - Chennai Temperature Should be  - 33",""
+"failed","Wed May 31 15:54:04 IST 2023","Wed May 31 15:54:44 IST 2023","40538","DrDocDemo","","Web Automation","","","Scroll the Page - The jungle book",""
+"passed","Wed May 31 15:54:05 IST 2023","Wed May 31 15:54:27 IST 2023","22407","DrDocDemo","","Web Automation","","","Check Full Text & PDF Download - As A Man Thinketh",""
+"passed","Wed May 31 15:54:02 IST 2023","Wed May 31 15:54:41 IST 2023","38864","DrDocDemo","","Web Automation","","","Scroll the Page - The meditations of Marcus Aurelius",""
+"passed","Wed May 31 15:54:02 IST 2023","Wed May 31 15:54:03 IST 2023","1812","DrDocDemo","","Mock Api Automation","","","Validate City - Thanjavur Temperature Should be  - 33",""
