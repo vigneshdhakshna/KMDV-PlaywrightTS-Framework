@@ -3,7 +3,7 @@
 <!-- __ _ _ _ __| |_ (_)__ _____
     / _` | '_/ _| ' \| |\ V / -_)
     \__,_|_| \__|_||_|_| \_/\___| -->
-  <head data-release=42e3437a data-node="www24.us.archive.org">
+  <head data-release=42e3437a data-node="www30.us.archive.org">
     <title>As A Man Thinketh : James Allen : Free Download, Borrow, and Streaming : Internet Archive</title>
 
           <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
@@ -2441,7 +2441,7 @@ body[unresolved] {opacity: 0; display: block; overflow: hidden; position: relati
                     Please see your browser settings for this feature.
                   </div>
                 </noscript>
-                    <input class="js-ia-metadata" type="hidden" value='{"alternate_locations":{"servers":[{"server":"dn790000.ca.archive.org","dir":"/0/items/as-a-man-thinketh_202105"}],"workable":[{"server":"dn790000.ca.archive.org","dir":"/0/items/as-a-man-thinketh_202105"}]},"created":1685528133,"d1":"ia903408.us.archive.org","d2":"ia803408.us.archive.org","dir":"/30/items/as-a-man-thinketh_202105","files":[{"name":"AS MAN THINKS.png","source":"original","mtime":"1622282284","size":"254856","md5":"876d0caf7858beb9a6924a054278e66c","crc32":"bc3c451b","sha1":"0b8ff05ba84ea60888c41e670f556ff6252fe851","format":"PNG"},{"name":"AS MAN THINKS_thumb.jpg","source":"derivative","format":"JPEG Thumb","original":"AS MAN THINKS.png","mtime":"1622282752","size":"6523","md5":"e640c678c49065b01d5f651ad0d9612e","crc32":"40669b80","sha1":"559d8f28edc1a295d06f842657a846b9fe45873d"},{"name":"As a man thinketh.pdf","source":"original","mtime":"1622282353","size":"3141516","md5":"44675827f6fa1dd5d066c7d4e74a654d","crc32":"f2ec24b4","sha1":"f2eb5c2104b6831e18d0e2ec7dc8c735fa337d20","format":"Text PDF"},{"name":"As a man thinketh.zip","source":"original","mtime":"1622282402","size":"2884078","md5":"a54656d13104b63466adbf65d6358cb7","crc32":"5ca5f5bb","sha1":"5083e7ca4d5f2e92c58fe2d3105f91e09a0f48a5","format":"ZIP"},{"name":"As a man thinketh_chocr.html.gz","source":"derivative","ocr":"tesseract 5.0.0-alpha-20201231-10-g1236","ocr_parameters":"-l eng","ocr_module_version":"0.0.13","ocr_detected_script":"Latin","ocr_detected_script_conf":"0.9386","ocr_detected_lang":"en","ocr_detected_lang_conf":"1.0000","format":"chOCR","original":"As a man thinketh_jp2.zip","mtime":"1622283594","size":"667991","md5":"356dd0eed142c996eb5b2adabea0e4bf","crc32":"caa45897","sha1":"a35f616a27d969d578d67f37c2aef41dbb4e7049"},{"name":"As a man thinketh_djvu.txt","source":"derivative","format":"DjVuTXT","original":"As a man thinketh_djvu.xml","mtime":"1622283661","size":"48560","md5":"a258d4c4d79c0425f98f55f6920c2869","crc32":"070f3ebe","sha1":"a3ddd4b7bfc1dff509e8f61b4899b424336e13d2"},{"name":"As a man thinketh_djvu.xml","source":"derivative","format":"Djvu XML","original":"As a man thinketh_hocr.html","mtime":"1622283630","size":"675081","md5":"4d1d119d0dbf1337bd3d00605757bc96","crc32":"e22b5501","sha1":"c236395d7ddeacf075af4e0ca0957a897df1487e"},{"name":"As a man thinketh_hocr.html","source":"derivative","hocr_char_to_word_module_version":"1.0.0","hocr_char_to_word_hocr_version":"1.1.2","ocr_parameters":"-l eng","ocr_module_version":"0.0.13","ocr_detected_script":"Latin","ocr_detected_script_conf":"0.9386","ocr_detected_lang":"en","ocr_detected_lang_conf":"1.0000","format":"hOCR","original":"As a man thinketh_chocr.html.gz","mtime":"1622283619","size":"1288544","md5":"dc6820eb01293bc430d86f2587dcdf3a","crc32":"509de501","sha1":"2684f23b252fad3798f25f524803bc8560182a5a"},{"name":"As a man thinketh_hocr_pageindex.json.gz","source":"derivative","hocr_pageindex_module_version":"1.0.0","hocr_pageindex_hocr_version":"1.1.0","format":"OCR Page Index","original":"As a man thinketh_hocr.html","mtime":"1622283638","size":"624","md5":"6e615d236f13101ad3bc7006db691ec9","crc32":"33fcd3eb","sha1":"6720d8c3938aef09f934b6b55502e990e396489c"},{"name":"As a man thinketh_hocr_searchtext.txt.gz","source":"derivative","hocr_fts_text_module_version":"1.1.0","hocr_fts_text_hocr_version":"1.1.0","word_conf_0_10":"49","word_conf_11_20":"27","word_conf_21_30":"36","word_conf_31_40":"47","word_conf_41_50":"43","word_conf_51_60":"42","word_conf_61_70":"51","word_conf_71_80":"80","word_conf_81_90":"320","word_conf_91_100":"7544","format":"OCR Search Text","original":"As a man thinketh_hocr.html","mtime":"1622283653","size":"18309","md5":"df1bf2009cec410a13e78d986c56fbfd","crc32":"550eb1ea","sha1":"ddaba7c5a6378cd82f1ef7e833c711151c5fe43f"},{"name":"As a man thinketh_jp2.zip","source":"derivative","format":"Single Page Processed JP2 ZIP","original":"As a man thinketh.pdf","mtime":"1622283163","size":"18224763","md5":"c22648d6a7e37d3e3df3f7150f3f6216","crc32":"eb451bbe","sha1":"d9631f258093793a15fbd4b6d7254113b2eade15"},{"name":"As a man thinketh_page_numbers.json","source":"derivative","format":"Page Numbers JSON","original":"As a man thinketh_djvu.xml","mtime":"1622283714","size":"9493","md5":"0759eae3e1c1173638df7bc4cd3c0a31","crc32":"7bdb6b93","sha1":"8b0ca1d370b4b1381b853176948d0ab60718c42b"},{"name":"As a man thinketh_scandata.xml","source":"derivative","format":"Scandata","original":"As a man thinketh_djvu.xml","mtime":"1622283715","size":"19537","md5":"6ff6b48e756937318e4e96d8ea11e9c3","crc32":"9832b983","sha1":"8182e9fa42527fc0cf731e202fcc39374b209c31"},{"name":"__ia_thumb.jpg","source":"original","mtime":"1646785238","size":"20172","md5":"1423e1eb2f8277433286092de833b2c8","crc32":"3ea1878b","sha1":"0477f46b2d89c1ec7d7ccef0951cf13017d39685","format":"Item Tile","rotation":"0"},{"name":"as-a-man-thinketh_202105_archive.torrent","source":"metadata","btih":"51865f57cc353a2a81ef81c409fb7238c4a38247","mtime":"1646820305","size":"5140","md5":"64f47b47bacef0452a962f99f4a53d34","crc32":"ffe6cf31","sha1":"454640364851794edf41efa2210fd6756a63ca06","format":"Archive BitTorrent"},{"name":"as-a-man-thinketh_202105_files.xml","source":"original","format":"Metadata","md5":"dc99e5d73c24cf198380349109f48853","summation":"md5"},{"name":"as-a-man-thinketh_202105_meta.sqlite","source":"original","mtime":"1622282408","size":"28672","md5":"2acefa449b6c6220e38a4c010c9d6a20","crc32":"92bd34ef","sha1":"b17ad3f994d9ecdaf02f1581a37e068bdc694401","format":"Metadata"},{"name":"as-a-man-thinketh_202105_meta.xml","source":"original","mtime":"1646820303","size":"1470","md5":"167849ca53fbdfef264fe8cfbeb1a919","crc32":"15243601","sha1":"728ac0e95083a82f1fc13a1eb20c9c854240d741","format":"Metadata"}],"files_count":18,"item_last_updated":1646820305,"item_size":27295329,"metadata":{"identifier":"as-a-man-thinketh_202105","mediatype":"texts","collection":["folkscanomy_miscellaneous","folkscanomy","additional_collections"],"creator":"James Allen","date":"1913","description":"As A Man Thinketh","language":"eng","licenseurl":"http://creativecommons.org/publicdomain/mark/1.0/","scanner":"Internet Archive HTML5 Uploader 1.6.4","subject":"self-help","title":"As A Man Thinketh","uploader":"webdeveloper5050@gmail.com","publicdate":"2021-05-29 09:58:34","addeddate":"2021-05-29 09:58:34","curation":"[curator]validator@archive.org[/curator][date]20210529100532[/date][comment]checked for malware[/comment]","identifier-access":"http://archive.org/details/as-a-man-thinketh_202105","identifier-ark":"ark:/13960/t1mh8wx0q","ppi":"600","ocr":"tesseract 5.0.0-alpha-20201231-10-g1236","ocr_parameters":"-l eng","ocr_module_version":"0.0.13","ocr_detected_script":"Latin","ocr_detected_script_conf":"0.9386","ocr_detected_lang":"en","ocr_detected_lang_conf":"1.0000","page_number_confidence":"74.55"},"server":"ia903408.us.archive.org","uniq":2073947515,"workable_servers":["ia903408.us.archive.org","ia803408.us.archive.org"]}'/>
+                    <input class="js-ia-metadata" type="hidden" value='{"alternate_locations":{"servers":[{"server":"dn790000.ca.archive.org","dir":"/0/items/as-a-man-thinketh_202105"}],"workable":[{"server":"dn790000.ca.archive.org","dir":"/0/items/as-a-man-thinketh_202105"}]},"created":1685530044,"d1":"ia903408.us.archive.org","d2":"ia803408.us.archive.org","dir":"/30/items/as-a-man-thinketh_202105","files":[{"name":"AS MAN THINKS.png","source":"original","mtime":"1622282284","size":"254856","md5":"876d0caf7858beb9a6924a054278e66c","crc32":"bc3c451b","sha1":"0b8ff05ba84ea60888c41e670f556ff6252fe851","format":"PNG"},{"name":"AS MAN THINKS_thumb.jpg","source":"derivative","format":"JPEG Thumb","original":"AS MAN THINKS.png","mtime":"1622282752","size":"6523","md5":"e640c678c49065b01d5f651ad0d9612e","crc32":"40669b80","sha1":"559d8f28edc1a295d06f842657a846b9fe45873d"},{"name":"As a man thinketh.pdf","source":"original","mtime":"1622282353","size":"3141516","md5":"44675827f6fa1dd5d066c7d4e74a654d","crc32":"f2ec24b4","sha1":"f2eb5c2104b6831e18d0e2ec7dc8c735fa337d20","format":"Text PDF"},{"name":"As a man thinketh.zip","source":"original","mtime":"1622282402","size":"2884078","md5":"a54656d13104b63466adbf65d6358cb7","crc32":"5ca5f5bb","sha1":"5083e7ca4d5f2e92c58fe2d3105f91e09a0f48a5","format":"ZIP"},{"name":"As a man thinketh_chocr.html.gz","source":"derivative","ocr":"tesseract 5.0.0-alpha-20201231-10-g1236","ocr_parameters":"-l eng","ocr_module_version":"0.0.13","ocr_detected_script":"Latin","ocr_detected_script_conf":"0.9386","ocr_detected_lang":"en","ocr_detected_lang_conf":"1.0000","format":"chOCR","original":"As a man thinketh_jp2.zip","mtime":"1622283594","size":"667991","md5":"356dd0eed142c996eb5b2adabea0e4bf","crc32":"caa45897","sha1":"a35f616a27d969d578d67f37c2aef41dbb4e7049"},{"name":"As a man thinketh_djvu.txt","source":"derivative","format":"DjVuTXT","original":"As a man thinketh_djvu.xml","mtime":"1622283661","size":"48560","md5":"a258d4c4d79c0425f98f55f6920c2869","crc32":"070f3ebe","sha1":"a3ddd4b7bfc1dff509e8f61b4899b424336e13d2"},{"name":"As a man thinketh_djvu.xml","source":"derivative","format":"Djvu XML","original":"As a man thinketh_hocr.html","mtime":"1622283630","size":"675081","md5":"4d1d119d0dbf1337bd3d00605757bc96","crc32":"e22b5501","sha1":"c236395d7ddeacf075af4e0ca0957a897df1487e"},{"name":"As a man thinketh_hocr.html","source":"derivative","hocr_char_to_word_module_version":"1.0.0","hocr_char_to_word_hocr_version":"1.1.2","ocr_parameters":"-l eng","ocr_module_version":"0.0.13","ocr_detected_script":"Latin","ocr_detected_script_conf":"0.9386","ocr_detected_lang":"en","ocr_detected_lang_conf":"1.0000","format":"hOCR","original":"As a man thinketh_chocr.html.gz","mtime":"1622283619","size":"1288544","md5":"dc6820eb01293bc430d86f2587dcdf3a","crc32":"509de501","sha1":"2684f23b252fad3798f25f524803bc8560182a5a"},{"name":"As a man thinketh_hocr_pageindex.json.gz","source":"derivative","hocr_pageindex_module_version":"1.0.0","hocr_pageindex_hocr_version":"1.1.0","format":"OCR Page Index","original":"As a man thinketh_hocr.html","mtime":"1622283638","size":"624","md5":"6e615d236f13101ad3bc7006db691ec9","crc32":"33fcd3eb","sha1":"6720d8c3938aef09f934b6b55502e990e396489c"},{"name":"As a man thinketh_hocr_searchtext.txt.gz","source":"derivative","hocr_fts_text_module_version":"1.1.0","hocr_fts_text_hocr_version":"1.1.0","word_conf_0_10":"49","word_conf_11_20":"27","word_conf_21_30":"36","word_conf_31_40":"47","word_conf_41_50":"43","word_conf_51_60":"42","word_conf_61_70":"51","word_conf_71_80":"80","word_conf_81_90":"320","word_conf_91_100":"7544","format":"OCR Search Text","original":"As a man thinketh_hocr.html","mtime":"1622283653","size":"18309","md5":"df1bf2009cec410a13e78d986c56fbfd","crc32":"550eb1ea","sha1":"ddaba7c5a6378cd82f1ef7e833c711151c5fe43f"},{"name":"As a man thinketh_jp2.zip","source":"derivative","format":"Single Page Processed JP2 ZIP","original":"As a man thinketh.pdf","mtime":"1622283163","size":"18224763","md5":"c22648d6a7e37d3e3df3f7150f3f6216","crc32":"eb451bbe","sha1":"d9631f258093793a15fbd4b6d7254113b2eade15"},{"name":"As a man thinketh_page_numbers.json","source":"derivative","format":"Page Numbers JSON","original":"As a man thinketh_djvu.xml","mtime":"1622283714","size":"9493","md5":"0759eae3e1c1173638df7bc4cd3c0a31","crc32":"7bdb6b93","sha1":"8b0ca1d370b4b1381b853176948d0ab60718c42b"},{"name":"As a man thinketh_scandata.xml","source":"derivative","format":"Scandata","original":"As a man thinketh_djvu.xml","mtime":"1622283715","size":"19537","md5":"6ff6b48e756937318e4e96d8ea11e9c3","crc32":"9832b983","sha1":"8182e9fa42527fc0cf731e202fcc39374b209c31"},{"name":"__ia_thumb.jpg","source":"original","mtime":"1646785238","size":"20172","md5":"1423e1eb2f8277433286092de833b2c8","crc32":"3ea1878b","sha1":"0477f46b2d89c1ec7d7ccef0951cf13017d39685","format":"Item Tile","rotation":"0"},{"name":"as-a-man-thinketh_202105_archive.torrent","source":"metadata","btih":"51865f57cc353a2a81ef81c409fb7238c4a38247","mtime":"1646820305","size":"5140","md5":"64f47b47bacef0452a962f99f4a53d34","crc32":"ffe6cf31","sha1":"454640364851794edf41efa2210fd6756a63ca06","format":"Archive BitTorrent"},{"name":"as-a-man-thinketh_202105_files.xml","source":"original","format":"Metadata","md5":"dc99e5d73c24cf198380349109f48853","summation":"md5"},{"name":"as-a-man-thinketh_202105_meta.sqlite","source":"original","mtime":"1622282408","size":"28672","md5":"2acefa449b6c6220e38a4c010c9d6a20","crc32":"92bd34ef","sha1":"b17ad3f994d9ecdaf02f1581a37e068bdc694401","format":"Metadata"},{"name":"as-a-man-thinketh_202105_meta.xml","source":"original","mtime":"1646820303","size":"1470","md5":"167849ca53fbdfef264fe8cfbeb1a919","crc32":"15243601","sha1":"728ac0e95083a82f1fc13a1eb20c9c854240d741","format":"Metadata"}],"files_count":18,"item_last_updated":1646820305,"item_size":27295329,"metadata":{"identifier":"as-a-man-thinketh_202105","mediatype":"texts","collection":["folkscanomy_miscellaneous","folkscanomy","additional_collections"],"creator":"James Allen","date":"1913","description":"As A Man Thinketh","language":"eng","licenseurl":"http://creativecommons.org/publicdomain/mark/1.0/","scanner":"Internet Archive HTML5 Uploader 1.6.4","subject":"self-help","title":"As A Man Thinketh","uploader":"webdeveloper5050@gmail.com","publicdate":"2021-05-29 09:58:34","addeddate":"2021-05-29 09:58:34","curation":"[curator]validator@archive.org[/curator][date]20210529100532[/date][comment]checked for malware[/comment]","identifier-access":"http://archive.org/details/as-a-man-thinketh_202105","identifier-ark":"ark:/13960/t1mh8wx0q","ppi":"600","ocr":"tesseract 5.0.0-alpha-20201231-10-g1236","ocr_parameters":"-l eng","ocr_module_version":"0.0.13","ocr_detected_script":"Latin","ocr_detected_script_conf":"0.9386","ocr_detected_lang":"en","ocr_detected_lang_conf":"1.0000","page_number_confidence":"74.55"},"server":"ia803408.us.archive.org","uniq":502746991,"workable_servers":["ia803408.us.archive.org","ia903408.us.archive.org"]}'/>
                     <ia-book-theater
                                     class="focus-on-child-only"
                   baseHost="archive.org"
@@ -3062,7 +3062,7 @@ body[unresolved] {opacity: 0; display: block; overflow: hidden; position: relati
   <div id="also-found"
     class="container container-ia width-max js-playset"
     data-identifier="as-a-man-thinketh_202105"
-    data-host-name="www24.us.archive.org"
+    data-host-name="www30.us.archive.org"
     data-mediatype="texts">
     <div class="row">
       <div class="col-xs-12 tilebars">
@@ -3081,13 +3081,13 @@ body[unresolved] {opacity: 0; display: block; overflow: hidden; position: relati
     </div><!--/#wrap-->
     
     <!-- Timing ...
-     rendered on: www24.us.archive.org
+     rendered on: www30.us.archive.org
  seconds diff sec               message   stack(file:line:function)
 =========================================================
   0.0000   0.0000         petabox start   var/cache/petabox/petabox/www/sf/details.php:1:require
                                              |common/ia:66:require_once
                                              |setup.php:383:log
-  0.0093   0.0093      redis_read start   var/cache/petabox/petabox/www/sf/details.php:74:getItem
+  0.0065   0.0065      redis_read start   var/cache/petabox/petabox/www/sf/details.php:74:getItem
                                              |details.php:193:getItem
                                              |common/Item.inc:79:parseMetadata
                                              |Item.inc:139:get_obj
@@ -3100,7 +3100,7 @@ body[unresolved] {opacity: 0; display: block; overflow: hidden; position: relati
                                              |AdapterPipeline.inc:702:fetch
                                              |RecordServer.inc:158:execute
                                              |RecordServer/FetchRecordOp.inc:57:log
-  0.0127   0.0035     redis_read finish   var/cache/petabox/petabox/www/sf/details.php:74:getItem
+  0.0105   0.0040     redis_read finish   var/cache/petabox/petabox/www/sf/details.php:74:getItem
                                              |details.php:193:getItem
                                              |common/Item.inc:79:parseMetadata
                                              |Item.inc:139:get_obj
@@ -3113,8 +3113,8 @@ body[unresolved] {opacity: 0; display: block; overflow: hidden; position: relati
                                              |AdapterPipeline.inc:702:fetch
                                              |RecordServer.inc:158:execute
                                              |RecordServer/FetchRecordOp.inc:63:log
-  0.0304   0.0177                render   var/cache/petabox/petabox/www/sf/details.php:94:log
-  0.0306   0.0003      start db connect   var/cache/petabox/petabox/www/sf/details.php:95:render
+  0.0223   0.0118                render   var/cache/petabox/petabox/www/sf/details.php:94:log
+  0.0227   0.0004      start db connect   var/cache/petabox/petabox/www/sf/details.php:95:render
                                              |common/Details.inc:5057:setupAndActionsFlags
                                              |DetailsFlags.inc:27:getFlags
                                              |DetailsFlags.inc:121:__callStatic
@@ -3130,7 +3130,7 @@ body[unresolved] {opacity: 0; display: block; overflow: hidden; position: relati
                                              |DB.inc:813:connect
                                              |DB.inc:105:conn
                                              |DB.inc:915:log
-  0.0418   0.0112                got db   var/cache/petabox/petabox/www/sf/details.php:95:render
+  0.0399   0.0172                got db   var/cache/petabox/petabox/www/sf/details.php:95:render
                                              |common/Details.inc:5057:setupAndActionsFlags
                                              |DetailsFlags.inc:27:getFlags
                                              |DetailsFlags.inc:121:__callStatic
@@ -3146,22 +3146,22 @@ body[unresolved] {opacity: 0; display: block; overflow: hidden; position: relati
                                              |DB.inc:813:connect
                                              |DB.inc:105:conn
                                              |DB.inc:962:log
-  0.0555   0.0137   begin session_start   var/cache/petabox/petabox/www/sf/details.php:95:render
+  0.0538   0.0139   begin session_start   var/cache/petabox/petabox/www/sf/details.php:95:render
                                              |common/Details.inc:5063:nav
                                              |Details.inc:4829:head
                                              |Nav.inc:123:__construct
                                              |Nav.inc:194:session_start
                                              |Cookies.inc:56:log
-  0.0557   0.0002    done session_start   var/cache/petabox/petabox/www/sf/details.php:95:render
+  0.0540   0.0002    done session_start   var/cache/petabox/petabox/www/sf/details.php:95:render
                                              |common/Details.inc:5063:nav
                                              |Details.inc:4829:head
                                              |Nav.inc:123:__construct
                                              |Nav.inc:194:session_start
                                              |Cookies.inc:66:log
-  0.0577   0.0020          header drawn   var/cache/petabox/petabox/www/sf/details.php:95:render
+  0.0573   0.0033          header drawn   var/cache/petabox/petabox/www/sf/details.php:95:render
                                              |common/Details.inc:5063:nav
                                              |Details.inc:4833:log
-  0.0586   0.0009      redis_read start   var/cache/petabox/petabox/www/sf/details.php:95:render
+  0.0586   0.0013      redis_read start   var/cache/petabox/petabox/www/sf/details.php:95:render
                                              |common/Details.inc:5087:theatre
                                              |Details.inc:2546:get_obj
                                              |Metadata.inc:532:_get_obj
@@ -3173,7 +3173,7 @@ body[unresolved] {opacity: 0; display: block; overflow: hidden; position: relati
                                              |AdapterPipeline.inc:702:fetch
                                              |RecordServer.inc:158:execute
                                              |RecordServer/FetchRecordOp.inc:57:log
-  0.0606   0.0020     redis_read finish   var/cache/petabox/petabox/www/sf/details.php:95:render
+  0.0628   0.0042     redis_read finish   var/cache/petabox/petabox/www/sf/details.php:95:render
                                              |common/Details.inc:5087:theatre
                                              |Details.inc:2546:get_obj
                                              |Metadata.inc:532:_get_obj
@@ -3185,7 +3185,7 @@ body[unresolved] {opacity: 0; display: block; overflow: hidden; position: relati
                                              |AdapterPipeline.inc:702:fetch
                                              |RecordServer.inc:158:execute
                                              |RecordServer/FetchRecordOp.inc:63:log
-  0.0838   0.0232      redis_read start   var/cache/petabox/petabox/www/sf/details.php:95:render
+  0.0930   0.0302      redis_read start   var/cache/petabox/petabox/www/sf/details.php:95:render
                                              |common/Details.inc:5106:info_right
                                              |Details.inc:3160:get_status
                                              |Lending/LendingACL.php:117:get_metadata_fields
@@ -3200,7 +3200,7 @@ body[unresolved] {opacity: 0; display: block; overflow: hidden; position: relati
                                              |AdapterPipeline.inc:702:fetch
                                              |RecordServer.inc:158:execute
                                              |RecordServer/FetchRecordOp.inc:57:log
-  0.0872   0.0034     redis_read finish   var/cache/petabox/petabox/www/sf/details.php:95:render
+  0.0962   0.0032     redis_read finish   var/cache/petabox/petabox/www/sf/details.php:95:render
                                              |common/Details.inc:5106:info_right
                                              |Details.inc:3160:get_status
                                              |Lending/LendingACL.php:117:get_metadata_fields
@@ -3215,7 +3215,7 @@ body[unresolved] {opacity: 0; display: block; overflow: hidden; position: relati
                                              |AdapterPipeline.inc:702:fetch
                                              |RecordServer.inc:158:execute
                                              |RecordServer/FetchRecordOp.inc:63:log
-  0.1120   0.0248              bug dump   var/cache/petabox/petabox/www/sf/details.php:95:render
+  0.1178   0.0215              bug dump   var/cache/petabox/petabox/www/sf/details.php:95:render
                                              |common/Details.inc:5122:footer
                                              |setup.php:150:footer
                                              |Nav.inc:861:dump
@@ -3231,8 +3231,8 @@ if (typeof archive_analytics !== 'undefined') {
       vs[i] = {};
     }
     vs[i]['cache_bust']=Math.random();
-    vs[i]['server_ms']=112;
-    vs[i]['server_name']="www24.us.archive.org";
+    vs[i]['server_ms']=117;
+    vs[i]['server_name']="www30.us.archive.org";
       }
 
   if (document.querySelectorAll('.more_search').length) {
@@ -3240,9 +3240,9 @@ if (typeof archive_analytics !== 'undefined') {
   }
 }
 </script>
-          <img src="//analytics.archive.org/0.gif?kind=track_js&track_js_case=control&cache_bust=916929130" alt="" />
+          <img src="//analytics.archive.org/0.gif?kind=track_js&track_js_case=control&cache_bust=930196596" alt="" />
           <noscript>
-        <img src="//analytics.archive.org/0.gif?kind=track_js&track_js_case=disabled&cache_bust=1002063445" />
+        <img src="//analytics.archive.org/0.gif?kind=track_js&track_js_case=disabled&cache_bust=1644374765" />
       </noscript>
           <script >
         document.addEventListener('DOMContentLoaded', function() {

@@ -1,14 +1,10 @@
 import { defineConfig, devices } from "@playwright/test";
 
 const junitOptions = {
-   embedAnnotationsAsProperties: false,
-   textContentAnnotations: [],
-   embedAttachmentsAsProperty: [],
-  outputFile: "./other-results/junitResult.xml",
-};
-
-const jsonOptions = {
-  outputFile: "./other-results/jsonResult.json",
+  //  embedAnnotationsAsProperties: false,
+  //  textContentAnnotations: [],
+  //  embedAttachmentsAsProperty: [],
+  outputFile: "./junitResult.xml",
 };
 
 const allureOptions = {
@@ -34,13 +30,11 @@ export default defineConfig({
   retries: process.env.CI ? 2 : 0,
   workers: process.env.CI ? 1 : undefined,
   reporter: [
+    ['junit', { outputFile: 'results.xml' }],
     ["./utils/myReporter.ts"],
-    ['junit', junitOptions],
     ["list", listOptions],
     ["allure-playwright", allureOptions],
     ["html", htmlOptions],
-    ["json", jsonOptions],
-    ["dot"],
   ],
   expect: {
     timeout: 24000,
@@ -57,7 +51,7 @@ export default defineConfig({
   //xcopy /E allure-report\history allure-results
   projects: [
     {
-      name: "DrDocDemo",
+      name: "Chrome",
       use: { ...devices["Desktop Chrome"] },
     },
 

@@ -9,7 +9,7 @@ const testResults = path.join(projectPath, "test-results");
 const subfolder = "history"; 
 
 export async function RemoveFolders() {
-
+  await fs.ensureDir(otherResults);
 
   if (await fs.pathExists(allureResult)) {
     await fs.remove(allureResult);

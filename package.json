@@ -6,7 +6,7 @@
   "scripts": {
     "test": "npx playwright test",
     "apiServer": "npx nodemon utils/mockApi.util.ts",
-    "allureReport": "npx playwright test --reporter=allure-playwright,junit,json,list,./utils/myReporter.ts",
+    "allureReport": "npx playwright test --reporter=allure-playwright,junit,list,./utils/myReporter.ts",
     "cleanAllure": "rimraf allure-results && rimraf allure-report && rimraf junitReport && rimraf playwright-report",
     "allureOpen": "npx allure generate allure-results --clean && allure open",
     "testAllure": "npm run cleanAllure && npm run allureReport && exit 0 || npm run allureOpen",
@@ -14,9 +14,9 @@
     "testApi": "concurrently \"npm run apiServer\" \"npm run testAllure\""
   },
   "keywords": [],
-  "author": "",
+  "author": "Vignesh Dhakshnamoorthy",
   "license": "ISC",
-  "dependencies": {
+  "devDependencies": {
     "@playwright/test": "^1.33.0",
     "@types/express": "^4.17.17",
     "@types/fs-extra": "^11.0.1",
