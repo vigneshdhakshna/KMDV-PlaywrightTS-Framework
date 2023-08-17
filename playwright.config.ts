@@ -45,6 +45,9 @@ export default defineConfig({
     screenshot: "only-on-failure",
     video: "on",
     headless: true,
+    launchOptions: {
+      slowMo: 100, // Adjust the delay (in milliseconds) between actions
+    },
   },
 
   // globalTeardown: './tests/globalTeardown.ts',

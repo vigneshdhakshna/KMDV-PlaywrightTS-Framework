@@ -1,4 +1,3 @@
-// my-awesome-reporter.ts
 import {
   FullConfig,
   FullResult,

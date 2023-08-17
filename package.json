@@ -10,7 +10,7 @@
     "cleanAllure": "rimraf allure-results && rimraf allure-report && rimraf junitReport && rimraf playwright-report",
     "allureOpen": "npx allure generate allure-results --clean && allure open",
     "testAllure": "npm run cleanAllure && npm run allureReport && exit 0 || npm run allureOpen",
-    "testAllure2": "npm run allureReport && exit 0 || npm run allureOpen",
+    "testPlay": "npm run allureReport && exit 0 || npm run allureOpen",
     "testApi": "concurrently \"npm run apiServer\" \"npm run testAllure\""
   },
   "keywords": [],
@@ -35,5 +35,8 @@
     "tesseract.js": "^4.0.6",
     "ts-node": "^10.9.1",
     "xlsx": "^0.18.5"
+  },
+  "dependencies": {
+    "@nut-tree/nut-js": "^3.1.2"
   }
 }
